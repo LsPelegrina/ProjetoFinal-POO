@@ -6,15 +6,20 @@ Este projeto é um sistema de gerenciamento para uma imobiliária, desenvolvido 
 ## Imagens
 
 ### Página Inicial
-![image](Assets/Inicial.png)
+![Inicial](https://github.com/user-attachments/assets/d218bd37-938f-4795-9752-3865ea766b9e)
+
 ### Página de cadastro de apartamento
-![image](Assets/pagina-de-cadastro-de-apartamento.png)
+![pagina-de-cadastro-de-apartamento](https://github.com/user-attachments/assets/028f96e8-72ac-45af-a54c-0df2ba07bb6e)
+
 ### Página de banco de imóveis
-![image](Assets/banco-de-imoveis.png)
+![banco-de-imoveis](https://github.com/user-attachments/assets/727166c2-25b4-4ee2-a5f7-560f99e277c2)
+
 ### Página de listagem de corretores
-![image](Assets/lista-de-corretores.png)
+![lista-de-corretores](https://github.com/user-attachments/assets/e831661e-b50f-415f-aafe-2703b82288f9)
+
 ### Página de busca de imovel por corretor
-![image](Assets/busca-por-nome-de-corretor.png)
+![busca-por-nome-de-corretor](https://github.com/user-attachments/assets/14515fe7-170d-452a-a84b-5f8b1c5873ae)
+
 ## Funcionalidades
 - Cadastro e gerenciamento de imóveis (casas, kitnets, etc.)
 - Registro de locações de imóveis
