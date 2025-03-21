@@ -3,6 +3,18 @@
 ## Descrição
 Este projeto é um sistema de gerenciamento para uma imobiliária, desenvolvido inteiramente em Java puro, sem o uso de frameworks ou bibliotecas externas. O sistema permite a gestão de locações e vendas de diversos tipos de imóveis, incluindo casas e kitnets.
 
+## Imagens
+
+### Página Inicial
+![image](Assets/Inicial.png)
+### Página de cadastro de apartamento
+![image](Assets/pagina-de-cadastro-de-apartamento.png)
+### Página de banco de imóveis
+![image](Assets/banco-de-imoveis.png)
+### Página de listagem de corretores
+![image](Assets/lista-de-corretores.png)
+### Página de busca de imovel por corretor
+![image](Assets/busca-por-nome-de-corretor.png)
 ## Funcionalidades
 - Cadastro e gerenciamento de imóveis (casas, kitnets, etc.)
 - Registro de locações de imóveis
